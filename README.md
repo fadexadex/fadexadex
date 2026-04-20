@@ -14,7 +14,7 @@
 - 🌱 Learning: **Agentic engineering**, **AI agent orchestration**, **problem solving**
 - 👯 Open to collaborating on: **ambitious project ideas**
 - 💬 Ask me about: **Express.js**, **Node.js**, **database design**, **software engineering**
-- ⚡ Fun fact: I enjoy intellectually stimulating arguments (and I’m really funny).
+- ⚡ Fun fact: I enjoy intellectually stimulating arguments (and I'm really funny).
 
 ## Links
 
@@ -22,23 +22,34 @@
 - **Resume**: [Google Drive link](https://drive.google.com/file/d/1CmliMNYLp6bxImyd5eOg4O7S3xUzk6NE/view?usp=sharing)
 - **Email**: `adexxing021@gmail.com`
 
+## 🏆 6x Hackathon Wins
+
+| # | Hackathon | Position |
+|---|-----------|-------|
+| 6 | **Interswitch x Enyata Buildathon** (Apr '26) | 🥈 2nd Place |
+| 5 | **RUNACOSS Web Design Contest** (Apr '26) | 🥇 1st Place |
+| 4 | **DATICAN AI in Medicine Competition** (Jun '25) | 🥈 2nd Place |
+| 3 | **Code Wars** — Olubless x Batman (Apr '25) | 🥇 1st Place |
+| 2 | **Arbitrum Builders Bounty** — Stackup x Arbitrum (Dec '24) | 🥉 3rd Place |
+| 1 | **StackUp September Coding Challenge** — AngelHack (Sep '24) | 10th Place |
+
 ## Connect with me
 
 <p align="left">
   <a href="https://twitter.com/f_adex_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/danielfadehan" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/_f.adex_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/fadexadex" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/_fadex_" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -90,5 +101,5 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/fadexadex)
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadexadex&" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadexadex&" alt="GitHub streak stats" />
 </p>
