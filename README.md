@@ -23,12 +23,13 @@
 - **Resume**: [Google Drive link](https://drive.google.com/file/d/1CmliMNYLp6bxImyd5eOg4O7S3xUzk6NE/view?usp=sharing)
 - **Email**: `adexxing021@gmail.com`
 
-## 🏆 6x Hackathon Wins
+## 🏆 7x Hackathon Wins
 
 | # | Hackathon | Prize |
 |---|-----------|-------|
-| 6 | **Interswitch x Enyata Buildathon** (Apr '26) | 🥈 2nd Place |
-| 5 | **RUNACOSS Web Design Contest** (Apr '26) | 🥇 1st Place |
+| 7 | **Cafe Cursor Hackathon** (Apr '26) | 🥇 1st Place |
+| 6 | **Interswitch x Enyata Buildathon** (Apr '18) | 🥈 2nd Place |
+| 5 | **RUNACOSS Web Design Contest** (Apr '11) | 🥇 1st Place |
 | 4 | **DATICAN AI in Medicine Competition** (Jun '25) | 🥈 2nd Place |
 | 3 | **Code Wars** — Olubless x Batman (Apr '25) | 🥇 1st Place |
 | 2 | **Arbitrum Builders Bounty** — Stackup x Arbitrum (Dec '24) | 🥉 3rd Place |
