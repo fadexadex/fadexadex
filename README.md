@@ -11,11 +11,12 @@
 
 ## About
 
-- 🔭 Currently building: [Campor](https://www.campor.live/)
-- 🌱 Learning: **Agentic engineering**, **AI agent orchestration**, **problem solving**
-- 👯 Open to collaborating on: **ambitious project ideas**
-- 💬 Ask me about: **Express.js**, **Node.js**, **database design**, **software engineering**
-- ⚡ Fun fact: I enjoy intellectually stimulating arguments (and I'm really funny).
+- Currently building: [Campor](https://www.campor.live/)
+- Learning: **Agentic engineering**, **AI agent orchestration**, **problem solving**
+- Open to collaborating on: **ambitious project ideas**
+- Contributing to Open Source 
+- Ask me about: **Express.js**, **Node.js**, **database design**, **software engineering**
+- Fun fact: I enjoy intellectually stimulating arguments (and I'm really funny).
 
 ## Links
 
