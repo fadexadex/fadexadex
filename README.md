@@ -31,10 +31,10 @@
 | 7 | **Cafe Cursor Hackathon** (Apr '26) | 🥇 1st Place |
 | 6 | **Interswitch x Enyata Buildathon** (Apr '18) | 🥈 2nd Place |
 | 5 | **RUNACOSS Web Design Contest** (Apr '11) | 🥇 1st Place |
-| 4 | **DATICAN AI in Medicine Competition** (Jun '25) | 🥈 2nd Place |
-| 3 | **Code Wars** — Olubless x Batman (Apr '25) | 🥇 1st Place |
-| 2 | **Arbitrum Builders Bounty** — Stackup x Arbitrum (Dec '24) | 🥉 3rd Place |
-| 1 | **StackUp September Coding Challenge** — AngelHack (Sep '24) | 10th Place |
+| 4 | **DATICAN AI in Medicine Competition** (Jun 2025) | 🥈 2nd Place |
+| 3 | **Code Wars** — Olubless x Batman (Apr 2025) | 🥇 1st Place |
+| 2 | **Arbitrum Builders Bounty** — Stackup x Arbitrum (Dec 2024) | 🥉 3rd Place |
+| 1 | **StackUp September Coding Challenge** — AngelHack (Sep 2024) | 10th Place |
 
 ## Connect with me
 
