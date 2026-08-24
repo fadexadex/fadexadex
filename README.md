@@ -28,7 +28,7 @@
 
 | # | Hackathon | Prize |
 |---|-----------|-------|
-| 8 | **Build with Alatpay Hackathon ** (Aug '26) | 🥇 1st Place |
+| 8 | **Build with Alatpay Hackathon** (Aug '26) | 🥇 1st Place |
 | 7 | **Cafe Cursor Hackathon** (Apr '26) | 🥇 1st Place |
 | 6 | **Interswitch x Enyata Buildathon** (Apr '18) | 🥈 2nd Place |
 | 5 | **RUNACOSS Web Design Contest** (Apr '11) | 🥇 1st Place |
