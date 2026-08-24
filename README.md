@@ -24,10 +24,11 @@
 - **Resume**: [Google Drive link](https://drive.google.com/file/d/1CmliMNYLp6bxImyd5eOg4O7S3xUzk6NE/view?usp=sharing)
 - **Email**: `adexxing021@gmail.com`
 
-## 🏆 7x Hackathon Wins
+## 🏆 8x Hackathon Wins
 
 | # | Hackathon | Prize |
 |---|-----------|-------|
+| 8 | **Build with Alatpay Hackathon ** (Aug '26) | 🥇 1st Place |
 | 7 | **Cafe Cursor Hackathon** (Apr '26) | 🥇 1st Place |
 | 6 | **Interswitch x Enyata Buildathon** (Apr '18) | 🥈 2nd Place |
 | 5 | **RUNACOSS Web Design Contest** (Apr '11) | 🥇 1st Place |
